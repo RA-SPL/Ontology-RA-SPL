@@ -15,5 +15,5 @@ The figures (PNG files) include:
 ## Description Logics  
 *Description Logics Ontology.pdf:* contains the complete list of **Classes, Object Properties, and Data Properties**, exported directly from protégé.
 
-## OWL File
+## Ontology File
 *LadleHandlingOntology.owl:* Is one of the files used when developing in protégé.
