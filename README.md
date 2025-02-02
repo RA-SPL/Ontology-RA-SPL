@@ -13,4 +13,7 @@ The figures (PNG files) include:
 2. **Part 2:** A further aggregated knowledge framework, hierarchically divided into **Classes (and Subclasses), Object Properties** (relationships between classes), and **Data Properties** (attributes of classes).  
 
 ## Description Logics  
-*Description Logics Ontology.pdf:* contains the complete list of **Classes, Object Properties, and Data Properties**, exported directly from Protégé.
+*Description Logics Ontology.pdf:* contains the complete list of **Classes, Object Properties, and Data Properties**, exported directly from protégé.
+
+## OWL File
+*LadleHandlingOntology.owl:* Is one of the files used when developing in protégé.
