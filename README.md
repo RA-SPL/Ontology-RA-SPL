@@ -4,7 +4,9 @@
 The four PDFs (*Distributed Cognition Theory Analysis with Aggregation - Subject #*) contain transcribed interviews (in Swedish), analyzed in two parts based on the Distributed Cognition Theory:  
 
 1. **Part 1 (High Level Concepts).png:** The interviews were systematically deconstructed into key concepts within designated categories, such as roles, tasks, tools, information, rules, relationships, and risks. These are presented in the table to the right of the answers.  
-2. **Part 2 (Hierarchical knowledge framework):** The cells under the answers, where rows are marked in blue, indicate the emergence of components with overarching classes, subclasses, relationships, and attributes.  
+2. **Part 2 (Hierarchical knowledge framework):** The cells under the answers, where rows are marked in blue, indicate the emergence of components with overarching classes, subclasses, relationships, and attributes.
+
+*Questions.txt:* Contains the questions given to each participant during the interview, written in Swedish and English.
 
 ## Figures  
 The figures (PNG files) include:  
@@ -17,6 +19,3 @@ The figures (PNG files) include:
 
 ## Ontology File
 *LadleHandlingOntology.owl:* Is the main ontology file developed in protégé.
-
-## Interview Questions
-*Questions.txt:* Contains the questions given to each participant during the interview, written in Swedish and English.
