@@ -4,10 +4,12 @@ Each question is written in Swedish, followed by an English translation on the n
 
 **Question 1.**
 Ålder? Kön? Arbetsroll? Tidigare utbildning? Bakgrund?Age?
+
 Gender? Job role? Previous education? Background?
 
 **Question 2.**
 Hur många år har du arbetat som processoperatör/Slaggtrucksförare?
+
 How many years have you worked as a operator / driver?
 
 **Question 3.**
