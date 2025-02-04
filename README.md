@@ -13,10 +13,10 @@ The figures (PNG files) include:
 2. **Part 2:** A further aggregated knowledge framework, hierarchically divided into **Classes (and Subclasses), Object Properties** (relationships between classes), and **Data Properties** (attributes of classes).  
 
 ## Description Logics  
-*Description Logics Ontology.pdf:* contains the complete list of **Classes, Object Properties, and Data Properties**, exported directly from protégé.
+*Description Logics Ontology.pdf:* Contains the complete list of **Classes, Object Properties, and Data Properties**, exported directly from protégé.
 
 ## Ontology File
-*LadleHandlingOntology.owl:* is the main ontology file developed in protégé.
+*LadleHandlingOntology.owl:* Is the main ontology file developed in protégé.
 
 ## Interview Questions
-*Questions.md:* contains the questions given to each participant during the interview, written in Swedish and English.
+*Questions.txt:* Contains the questions given to each participant during the interview, written in Swedish and English.
