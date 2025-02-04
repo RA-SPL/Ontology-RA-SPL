@@ -63,16 +63,16 @@ Vilken information är viktigast att ha i ett informationsblock (exempel: yta 12
 What information is most important to have in an information block (example: solidification area 12 is an information block)?
 
 **Question 16.**
-Brister och fördelar med med fleetskill?
-Shortcomings and advantages of fleetskill?
+Brister och fördelar med nuvarande beställningssystem av skänkkörningar?
+Shortcomings and advantages of current system of ordering ladle transports?
 
 **Question 17.**
-Vilken information kan du tänka dig ange i fleetskill? Vart går gränsen för hur mycket du vill ange?
-What information would you like to enter in fleetskill? What is the limit of how much you want to enter?
+Vilken information kan du tänka dig ange i nuvarande beställningssystem? Vart går gränsen för hur mycket du vill ange?
+What information would you like to enter in current ordering system? What is the limit of how much you want to enter?
 
 **Question 18.**
-Finns det något annat system (exempel: ABB) som du hellre anger information till (som sedan uppdateras till skärmen)?
-Is there any other system (example: ABB) to which you prefer to enter information (which is then updated to the new system)?
+Finns det något annat system som du hellre anger information till (som sedan uppdateras till skärmen)?
+Is there any other system to which you prefer to enter information (which is then updated to the new system)?
 
 **Question 19.**
 Vad är det viktigaste enligt dig som det nya systemet ska innehålla?
