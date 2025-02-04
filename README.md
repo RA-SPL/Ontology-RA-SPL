@@ -17,3 +17,6 @@ The figures (PNG files) include:
 
 ## Ontology File
 *LadleHandlingOntology.owl:* is the main ontology file developed in protégé.
+
+## Interview Questions
+*Questions.md:* contains the questions given to each participant during the interview, written in Swedish and English.
