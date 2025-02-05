@@ -1,3 +1,25 @@
+## RA-SPL Knowledge Modeling Documents
+- Anonymous repository; the related paper is undergoing review.
+
+- HHAI submission 56
+
+### Files:
+
+- **Transcribed interviews** - Grounded theory analysis: 
+  - Interview Analysis Part 1.pdf  
+  - Interview Analysis Part 2.pdf  
+  - Interview Analysis Part 3.pdf  
+  - Interview Analysis Part 4.pdf  
+
+- **Concepts (High Level Concepts).png** –Aggregated concepts from interviews.  
+- **Concepts (Classes and Relations).png** – Classes, relations, and attributes.  
+- **Interview Questions.txt** – Interview Guide in Swedish and English. 
+
+- **LadleHandlingOntology.owl** – Main ontology file developed in Protégé.  
+
+<!--
+--------------------- OLD README ------------------------
+
 # HHAI Submission 56 - Knowledge Modelling Documents  
 
 ## Interviews  
@@ -19,3 +41,4 @@ The figures (PNG files) include:
 
 ## Ontology File
 *LadleHandlingOntology.owl:* Is the main ontology file developed in protégé.
+-->
