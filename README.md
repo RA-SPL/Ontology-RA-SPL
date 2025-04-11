@@ -1,7 +1,6 @@
 ## RA-SPL Knowledge Modeling Documents
-- Anonymous repository; the related paper is undergoing review.
 
-- HHAI submission 56
+- [HHAI](https://hhai-conference.org/) submission 56
 
 ### Files:
 
