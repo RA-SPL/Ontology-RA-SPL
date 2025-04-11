@@ -15,7 +15,14 @@
 - **Concepts (Classes and Relations).png** – Classes, relations, and attributes.  
 - **Interview Questions.txt** – Interview Guide in Swedish and English. 
 
-- **LadleHandlingOntology.owl** – Main ontology file developed in Protégé.  
+- **LadleHandlingOntology.owl** – Main ontology file developed in Protégé.
+
+- **Ethical assessment at Umeå University.pdf** - Self assessment form provided by Umeå University and signed by Henrik Björklund, Associate professor at Department of Computing Science
+
+Created by:
+- John Granström {jogr0143@student.umu.se}
+
+- Andreas Brännström {andreasb@cs.umu.se} [Homepage](https://www.umu.se/personal/andreas-brannstrom/)
 
 <!--
 --------------------- OLD README ------------------------
