@@ -1,6 +1,7 @@
 ## RA-SPL Knowledge Modeling Documents
 
-Related publication: Granström, J., & Brännström, A. (2025). Ontology-Based Risk Assessment in Smelting Plant Logistics. In: *HHAI 2025: The 4th International Conference on Hybrid Human-Artificial Intelligence*, June 9–13, Pisa, Italy.
+Related publication: Granström, J., & Brännström, A. (2025). Ontology-Based Risk Assessment in Smelting Plant Logistics. 
+In: *HHAI 2025: The 4th International Conference on Hybrid Human-Artificial Intelligence*, June 9–13, Pisa, Italy.
 
 ### Files:
 
