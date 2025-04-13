@@ -17,7 +17,7 @@ In: *HHAI 2025: The 4th International Conference on Hybrid Human-Artificial Inte
 
 - **LadleHandlingOntology.owl** – Main ontology file developed in Protégé.
 
-- **Evaluation.pdf** – Complete evaluation and analysis of the final software. 
+- **Evaluation.pdf** – Material related to the evaluation of the theoretical model and prototype. 
 
 - **Ethical assessment at Umeå University.pdf** - Self assessment form provided by Umeå University and signed by authorized decision-maker appointed by the head of department.
 
